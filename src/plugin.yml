@@ -1,0 +1,5 @@
+name: LobbyAPIBungee
+description: A Lobby API (Bungee)
+author: booky10
+version: '1.0'
+main: tk.t11e.lobbyapi.main.Main
