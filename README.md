@@ -1,2 +1,2 @@
 # LobbyAPIBungee
-A LobbyAPI for Bungee
+A LobbyAPI for Bungeecord
